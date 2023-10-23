@@ -93,6 +93,7 @@ The report will include the following information:
 
 The presence or absence of kidney tumors, stones, and cysts
 
+Dataset Link: https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone
 License
 
 The CT Kidney App is licensed under the MIT License.
