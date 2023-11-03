@@ -1,6 +1,6 @@
 # CT-Kidney
 Image Classification model CNN vs VGG16 vs MobileNet
-
+![Snapshot](https://github.com/divyanshuxyz/CT-Kidney/blob/main/snapshots/Screenshot%202023-10-23%20at%201.33.07%20PM.png)
 #Overview
 
 The CT Kidney App is an AI-powered application that uses machine learning to detect tumors, stones, and cysts in the kidney by analyzing CT scan images. The app is trained on a large dataset of CT scan images that have been labeled by experienced radiologists.
